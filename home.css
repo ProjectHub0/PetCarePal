@@ -1,0 +1,79 @@
+body {background-color:black;
+  background-size:; background-repeat:no-repeat; background-image:url("https://cdn.pixabay.com/photo/2012/08/27/14/19/mountains-55067_1280.png");
+background-attachment: fixed;
+  background-size: cover;
+ 
+}
+
+
+#menubar{left :0px;
+		 top:0px;
+		height:40px;
+		width:100%;
+		border:6px tra solid;
+		position:absolute   ;
+	
+		
+	}
+	
+	.link-1:hover {
+  border-top: 4px solid #ffffff;
+  border-bottom: 4px solid #ffffff;
+  font-size:14px;
+}
+   #links a {		
+	   color:white;
+	   text-decoration:	   none ;
+	   padding-right:23px;
+	  padding:20px; 
+	  
+   }
+   #links {
+   font-size:11px;
+   font-family:;
+	   padding-top:10px;
+   }
+   
+   
+      #logo img {
+	width: 100px; /* Breite beibehalten */
+	height: 100px; /* Höhe beibehalten */
+	display: block; /* Als Blockelement behandeln */
+	margin-left: auto; /* Links zentrieren */
+	margin-right: auto; /* Rechts zentrieren */
+	margin-top: 20px; /* Oben Abstand hinzufügen */
+}
+
+
+   
+	.h1 {
+	font-size: 30px;
+	color: white;
+	text-align: center; /* Zentriere den Text horizontal */
+	margin-top: 30%; /* Verwende margin-top statt top für den Abstand von oben */
+}
+	
+	section {
+	margin-top: 30%;
+	padding: 45px 0;
+	color:white;
+	text-align: center;
+	
+}
+
+
+h2 {
+	margin-bottom: 40px;
+
+	
+}
+
+
+p {
+    font-size: 16px; /* Ändere die Schriftgröße für p auf 16px */
+    color: white;
+}
+
+
+
+
